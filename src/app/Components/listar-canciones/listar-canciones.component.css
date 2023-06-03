@@ -1,0 +1,18 @@
+.fas{
+   cursor: pointer;
+   margin-left: 10px;
+}
+
+.btn-primary{
+    background-color: #951555;
+    border-color: #951555;
+  }
+  .btn-primary:hover{
+    background-color: #771144;
+    border-color: #771144;
+  }
+  .btn-primary:active{
+    background-color: #1E0411 !important;
+    border-color: #1E0411 !important;
+
+  }
